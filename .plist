@@ -12,7 +12,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://xxxxxxxxxxxxxxxxxxx/xxx.ipa</string>
+					<string>http://nbb.yaofengjituan.com/download/H5E42DEB7_0322180405.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -20,7 +20,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://xxxxxxxxxxxxxxxxxx.png</string>
+					<string>http://nbb.yaofengjituan.com/download/yinlian.5288489.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -28,7 +28,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://xxxxxxxxxxxxxxxxxx.png</string>
+					<string>http://nbb.yaofengjituan.com/download/logo.01ce3ac.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -45,7 +45,3 @@
 		</dict>
 	</array>
 </dict>
-
-————————————————
-版权声明：本文为CSDN博主「杨小扬」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/xlyrh/article/details/79078271
